@@ -14,3 +14,4 @@ using the libaries seaborn and matplotlib visualised the data and created a heat
 ## conclusions 
 the dataset consisted some unusal outliers and according to coorelation matrix the target column did'nt had very strong relation with the features only the glucose column and BMI
 columns had some relation the correlation value for glucose was ".46" and for BMI it was ".29" and ".2" for age column
+according to me simple machine learning will not perform good in this data set
